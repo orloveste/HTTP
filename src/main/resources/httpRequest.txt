@@ -1,7 +1,25 @@
-Methods/verbs
+http request Methods/verbs
 *POST - create
 *GET - ask from server
 *PUT - update resources with new one
 *PATCH - update resources (partial)
 *DELETE - remove definitely resourse
 *OPTION - rare use - get option
+
+http request HEADERS
+ *Authorization - specifies the authorization method and credentials.
+ *Content-type - specifies the format of data in request body.
+ *Cookie, Set-Cookie - can pass a cookie value or set cookie at the client.
+ *Accept - specifies the type of data that should be sent back.
+ *Location - a URL to redirect to.
+ *User-Agent - informs about the client (application type/operation system etc).
+
+
+http response Status Code
+1xx: Informational
+2xx: Success
+3xx: Redirection
+4xx: Client error
+5xx: Server error
+
+
