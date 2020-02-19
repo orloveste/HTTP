@@ -15,11 +15,6 @@ http request HEADERS
  *User-Agent - informs about the client (application type/operation system etc).
 
 
-http response Status Code
-1xx: Informational
-2xx: Success
-3xx: Redirection
-4xx: Client error
-5xx: Server error
+
 
 
