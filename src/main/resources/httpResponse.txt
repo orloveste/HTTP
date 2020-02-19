@@ -4,3 +4,5 @@ http response Status Code
 3xx: Redirection
 4xx: Client error
 5xx: Server error
+
+https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
