@@ -3,5 +3,5 @@ Methods/verbs
 *GET - ask from server
 *PUT - update resources with new one
 *PATCH - update resources (partial)
-*DELETE - remove definitely
+*DELETE - remove definitely resourse
 *OPTION - rare use - get option
