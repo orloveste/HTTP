@@ -1,7 +1,7 @@
 Methods/verbs
 *POST - create
 *GET - ask from server
-*PUT - update resources
+*PUT - update resources with new one
 *PATCH - update resources (partial)
 *DELETE - remove definitely
 *OPTION - rare use - get option
