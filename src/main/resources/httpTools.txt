@@ -16,6 +16,10 @@ Approximate round trip times in milli-seconds:
 
 *Telnet - protocol used on the Internet or local area network to provide a bidirectional interactive text-oriented
 communication facility using a virtual terminal connection.
+    Telnet is also used as a verb. To telnet means to establish a connection using the Telnet protocol, either with
+     a command line client or with a graphical interface. For example, a common directive might be: "To change your
+      password, telnet into the server, log in and run the passwd command." In most cases, a user would be telnetting
+       into a Unix-like server system or a network device (such as a router)
 *SSH - Secure Shell - cryptographic network protocol for operating network services securely over an
 unsecured network
 https://sdf.org/
