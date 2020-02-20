@@ -3,6 +3,16 @@ http Tools
 *cURL - software that provides a tool for sendingHTTP requests with the command line
 *Wget - is a computer program that retrieves content from web servers
 *Ping - utility used to test the reachability of a host on an Internet Protocol (IP) network
+Pinging www.google.com [172.217.21.196] with 32 bytes of data:
+Reply from 172.217.21.196: bytes=32 time=28ms TTL=56
+Reply from 172.217.21.196: bytes=32 time=35ms TTL=56
+Reply from 172.217.21.196: bytes=32 time=29ms TTL=56
+Reply from 172.217.21.196: bytes=32 time=30ms TTL=56
+
+Ping statistics for 172.217.21.196:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 28ms, Maximum = 35ms, Average = 30ms
 *Telnet - protocol used on the Internet or local area network to provide a bidirectional interactive text-oriented
 communication facility using a virtual terminal connection.
 *SSH - Secure Shell - cryptographic network protocol for operating network services securely over an
