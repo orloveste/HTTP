@@ -21,6 +21,8 @@ unsecured network
 *Wireshark - packet analyzer used for network troubleshooting, analysis, software and communications
 protocol development, and education.
  https://www.wireshark.org/
+*Postman - Web API testing tool
+ https://www.postman.com/
 
 
 Else - git -
