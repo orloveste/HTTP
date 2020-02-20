@@ -13,10 +13,14 @@ Ping statistics for 172.217.21.196:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
     Minimum = 28ms, Maximum = 35ms, Average = 30ms
+
 *Telnet - protocol used on the Internet or local area network to provide a bidirectional interactive text-oriented
 communication facility using a virtual terminal connection.
 *SSH - Secure Shell - cryptographic network protocol for operating network services securely over an
 unsecured network
+*Wireshark - packet analyzer used for network troubleshooting, analysis, software and communications
+protocol development, and education.
+ https://www.wireshark.org/
 
 
 Else - git -
