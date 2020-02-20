@@ -3,3 +3,5 @@ http Tools
 *cURL - software that provides a tool for sendingHTTP requests with the command line
 *Wget - is a computer program that retrieves content from web servers
 *Ping - utility used to test the reachability of a host on an Internet Protocol (IP) network
+*Telnet - protocol used on the Internet or local area network to provide a bidirectional interactive text-oriented
+communication facility using a virtual terminal connection.
