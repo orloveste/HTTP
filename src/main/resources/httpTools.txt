@@ -18,6 +18,7 @@ Approximate round trip times in milli-seconds:
 communication facility using a virtual terminal connection.
 *SSH - Secure Shell - cryptographic network protocol for operating network services securely over an
 unsecured network
+https://sdf.org/
 *Wireshark - packet analyzer used for network troubleshooting, analysis, software and communications
 protocol development, and education.
  https://www.wireshark.org/
