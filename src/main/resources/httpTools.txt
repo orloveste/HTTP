@@ -1,3 +1,4 @@
 http Tools
 
-cURL - software that provides a tool for sendingHTTP requests with the command line
+*cURL - software that provides a tool for sendingHTTP requests with the command line
+*Wget - is a computer program that retrieves content from web servers
