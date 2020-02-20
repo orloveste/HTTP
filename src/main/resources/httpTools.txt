@@ -5,6 +5,9 @@ http Tools
 *Ping - utility used to test the reachability of a host on an Internet Protocol (IP) network
 *Telnet - protocol used on the Internet or local area network to provide a bidirectional interactive text-oriented
 communication facility using a virtual terminal connection.
+*SSH - Secure Shell - cryptographic network protocol for operating network services securely over an
+unsecured network
+
 
 Else - git -
 C:\Users\Lenovo>git
